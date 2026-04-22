@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e86c3e7d-5318-4f7e-ade4-4d1584adfc39",
+  "export_job_id": "5e7f5183-0aab-4f8a-8474-66d84babbf7f",
   "id_short": 370435,
-  "published_at": "2026-04-18T07:57:55Z",
+  "published_at": "2026-04-22T07:24:58Z",
   "repo_name": "white-space-finder-in-minnesota-us-sample-370435",
   "sample_asset_name": "beamstation_370435_food_and_drink-us-mn_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/370435/beamstation_370435_food_and_drink-us-mn_SAMPLE_DIST.csv",
-  "sample_records": 4,
-  "sample_sha256": "ac65855cd610fcf7bab69195c0cec4d60bda787f918b8aa3b4348dda0db98aea",
-  "sample_size_bytes": 33484,
-  "total_records": 44
+  "sample_records": 1,
+  "sample_sha256": "e9610da639e41cea590a71d9b330a94d9081c17ddc405df394f8d4324027aed1",
+  "sample_size_bytes": 21283,
+  "total_records": 19
 }
