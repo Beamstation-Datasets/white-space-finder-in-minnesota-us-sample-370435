@@ -1,6 +1,6 @@
 # White Space Finder in Minnesota, US
 
-> Free BeamStation sample export with 1 rows and masked direct-contact fields.
+> Free BeamStation sample export with 3 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `370435` |
 | Location | Minnesota |
 | Category | Restaurants |
-| Full dataset size | 19 records |
-| Free sample size | 1 records (5.26%) |
-| Last export | 2026-04-22T02:55:30.599665+00:00 |
+| Full dataset size | 39 records |
+| Free sample size | 3 records (7.69%) |
+| Last export | 2026-04-29T05:49:45.464628+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-minnesota-us-sample-370435/releases/download/sample-latest/beamstation_370435_food_and_drink-us-mn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
